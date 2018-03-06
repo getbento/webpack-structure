@@ -4,7 +4,7 @@ This document outlines the structure for Webpack based React applications.
 
 ## Feature Complete Single Page Applications
 
-```
+```bash
 project_name
 ├── .babelrc
 ├── .eslintrc
@@ -37,7 +37,7 @@ project_name
 
 ## Multifeature Single Page Applciations
 
-```
+```bash
 project_name
 ├── .babelrc
 ├── .eslintrc
