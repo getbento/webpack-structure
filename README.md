@@ -6,7 +6,7 @@ This document outlines the structure for Webpack based React applications.
 
 This structure is intended for all new, self contained React applications.
 
-```bash
+```python
 project_name
 ├── .babelrc
 ├── .eslintignore
@@ -49,7 +49,7 @@ project_name
 
 This structure is intended for large, multi feature applications.
 
-```bash
+```python
 project_name
 ├── .babelrc
 ├── .eslintignore
